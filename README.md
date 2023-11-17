@@ -10,18 +10,23 @@ Currently, I'm practicing a lot of my functional programming skills  🤩
 
 But I'm learning a lot of stuff  🥰
  - Python
- - C
+ - TensorFlow, Keras
+ - Cuda
+ - C, C++
  - Lua
  - LaTeX
  - Oracle SQL
  - Octave
 
-## Languajes and Tools
+## Languages and Tools
 
 <p align="left"> 
   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/?hl=es-419" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1000/1*Pgx0qBpKHFehtZj1K_yXCw.png" alt="c" width="40" height="40"/> </a>
+ <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="c" width="40" height="40"/> </a>
+  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg" alt="c" width="70" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png" alt="git" width="40" height="40"/> </a>
   <a href="http://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa952935eafe23237c5a52922460c192fde88435" alt="LaTeX" width="40" height="40"/> </a>
