@@ -4,13 +4,14 @@
 
 I'm the kind of person who can talk non-stop about science and technology for months, and I've always been in love with mathematics.
 
-Currently, I'm practicing a lot of my functional programming skills  🤩
+I have a strong passion for functional programming...
  - Haskell
- - The latest releases of Java
+ - Rust
 
 But I'm learning a lot of stuff  🥰
  - Python
  - TensorFlow, Keras
+ - Java
  - Cuda
  - C, C++
  - Lua
