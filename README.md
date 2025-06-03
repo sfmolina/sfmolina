@@ -11,7 +11,7 @@ I have a strong passion for functional programming...
 But I'm learning a lot of stuff  🥰
  - Python
  - TensorFlow, Keras
- - Java
+ - Java, Kotlin
  - Cuda
  - C, C++
  - Lua
